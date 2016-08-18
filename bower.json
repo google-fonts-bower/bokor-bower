@@ -1,0 +1,17 @@
+{
+    "name": "bokor-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Danh Hong"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/bokor-bower.git"
+    },
+    "description": "Bokor font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
